@@ -43,15 +43,8 @@ Weekdays contribute ~71.7% of total sales
 High-frequency items are not always high-revenue items
 
 ## Repository Structure
-📁 McDonalds-Sales-Analysis
- ┣ 📁 data
- ┃ ┣ 📁 raw
- ┃ ┃ ┗ raw_data.xlsx
- ┃ ┣ 📁 processed
- ┃ ┃ ┗ cleaned_data.xlsx
- ┣ 📁 presentation
- ┃ ┗ mcdonalds_analysis.pdf
- ┣ README.md
+<img width="291" height="243" alt="image" src="https://github.com/user-attachments/assets/174958f2-78f7-4708-9289-219f05627fbe" />
+
 
 
 ## Future Scope
