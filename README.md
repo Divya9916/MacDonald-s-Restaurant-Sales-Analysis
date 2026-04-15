@@ -43,9 +43,18 @@ Weekdays contribute ~71.7% of total sales
 High-frequency items are not always high-revenue items
 
 ## Repository Structure
+📁 McDonalds-Sales-Analysis
+ ┣ 📁 data
+ ┃ ┣ 📁 raw
+ ┃ ┃ ┗ raw_data.xlsx
+ ┃ ┣ 📁 processed
+ ┃ ┃ ┗ cleaned_data.xlsx
+ ┣ 📁 presentation
+ ┃ ┗ mcdonalds_analysis.pdf
+ ┣ README.md
 
 
-##Future Scope
+## Future Scope
 Build an interactive dashboard in Power BI
 Perform advanced analysis using SQL/Python
 Add sales forecasting using time-series models
